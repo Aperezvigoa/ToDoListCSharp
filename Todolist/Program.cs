@@ -6,7 +6,7 @@ Console.WriteLine("****************************");
 bool exitApp = false;
 string userOptionInput = "";
 List<string> toDoList = new List<string>();
-
+ 
 do
 {
     PrintOptions();
